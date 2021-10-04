@@ -1,5 +1,4 @@
-<html>
-<html>
+<!DOCTYPE html>
 <head>
     <title>My new Web Page!</title>
 </head>
