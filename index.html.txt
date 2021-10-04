@@ -7,7 +7,7 @@
 
      <h1>This is my public Website!</h1>
      <hr>
-     <h4 style="color:red">the second version.</h4>
+     <h4 style="color:blueviolet;">the second version.</h4>
 
 </body> 
 </html>
